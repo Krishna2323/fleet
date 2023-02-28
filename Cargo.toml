@@ -1,7 +1,7 @@
 [package]
 name = "fleet-rs"
 version = "0.0.8"
-edition = "2021"
+edition = "2021
 description = "The blazing fast build tool for Rust."
 authors = ["Dimension <team@dimension.dev>"]
 license = "Apache-2.0"
