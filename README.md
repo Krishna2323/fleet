@@ -1,6 +1,5 @@
 ![image](https://user-images.githubusercontent.com/63039748/164709140-8bb96d45-972e-4ac5-8e0e-ae566e673761.png)
-
-
+test by krishan
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0--beta-green"> <img src="https://img.shields.io/github/license/dimensionhq/fleet?color=pink"> <img src="https://img.shields.io/tokei/lines/github/dimensionhq/fleet?color=white&label=lines%20of%20code"> <img src="https://img.shields.io/github/languages/top/dimensionhq/fleet?color=%230xfffff">
 </p>
@@ -10,7 +9,7 @@
 
 [Fleet](https://fleet.rs) is the blazing fast build tool for Rust. Compiling with Fleet is up-to 5x faster than with `cargo`.
 
-**Note**: Since fleet is in the beta phase, it might not be completely stable yet. Feel free to open any issues or bug reports at [issues](https://github.com/dimensionhq/fleet/issues/).
+**Note**: Since Fleet is still under development, it might not be completely stable yet. Feel free to open any issues or bug reports at [issues](https://github.com/dimensionhq/fleet/issues/).
 
 <br>
 
