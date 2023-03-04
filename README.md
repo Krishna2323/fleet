@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/63039748/164709140-8bb96d45-972e-4ac5-8e0e-ae566e673761.png)
-test progress bar!
+test progress bar
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0--beta-green"> <img src="https://img.shields.io/github/license/dimensionhq/fleet?color=pink"> <img src="https://img.shields.io/tokei/lines/github/dimensionhq/fleet?color=white&label=lines%20of%20code"> <img src="https://img.shields.io/github/languages/top/dimensionhq/fleet?color=%230xfffff">
 </p>
